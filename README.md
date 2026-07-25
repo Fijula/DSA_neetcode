@@ -10,10 +10,10 @@ for reference, and **time/space complexity** annotations.
 
 ## 📈 Progress
 
-**3 / 150 solved**
+**5 / 150 solved**
 
 ```
-[■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 2%
+[■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 3%
 ```
 
 | Day | Problem | Topic | Solution |
@@ -21,6 +21,8 @@ for reference, and **time/space complexity** annotations.
 | 1 | Contains Duplicate | Arrays & Hashing | [1-duplicate_elements.py](1-duplicate_elements.py) |
 | 2 | Valid Anagram | Arrays & Hashing | [2-valid_anagram.py](2-valid_anagram.py) |
 | 3 | Group Anagrams | Arrays & Hashing | [3-group_anagrams.py](3-group_anagrams.py) |
+| 4 | Top K Frequent Elements | Arrays & Hashing | [4-top_k_frequent.py](4-top_k_frequent.py) |
+| 5 | Products of Array Except Self | Arrays & Hashing | [5-product_except_self.py](5-product_except_self.py) |
 
 ---
 
