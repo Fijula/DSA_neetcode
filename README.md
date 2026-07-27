@@ -10,10 +10,10 @@ for reference, and **time/space complexity** annotations.
 
 ## 📈 Progress
 
-**5 / 150 solved**
+**6 / 150 solved**
 
 ```
-[■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 3%
+[■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□] 4%
 ```
 
 | Day | Problem | Topic | Solution |
@@ -23,12 +23,13 @@ for reference, and **time/space complexity** annotations.
 | 3 | Group Anagrams | Arrays & Hashing | [3-group_anagrams.py](3-group_anagrams.py) |
 | 4 | Top K Frequent Elements | Arrays & Hashing | [4-top_k_frequent.py](4-top_k_frequent.py) |
 | 5 | Products of Array Except Self | Arrays & Hashing | [5-product_except_self.py](5-product_except_self.py) |
+| 6 | Valid Sudoku | Arrays & Hashing | [6-valid_sudoku.py](6-valid_sudoku.py) |
 
 ---
 
 ## 📚 Roadmap (NeetCode 150 categories)
 
-- [ ] Arrays & Hashing *(in progress — 3/9)*
+- [ ] Arrays & Hashing *(in progress — 6/9)*
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
