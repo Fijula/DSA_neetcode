@@ -22,7 +22,7 @@ def encode(strs):
     for s in strs:
         result += str(len(s)) + "#" + s   # the "#" only ends the NUMBER, never the text
     return result
-
+9252204535
 def decode(s):
     result = []
     i = 0
